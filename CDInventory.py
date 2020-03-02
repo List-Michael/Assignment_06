@@ -1,5 +1,5 @@
 #------------------------------------------#
-# Title: Assignment06_Starter.py
+# Title: CDInventory.py
 # Desc: Working with classes and functions.
 # Change Log: (Who, When, What)
 # DBiesinger, 2030-Jan-01, Created File
@@ -14,7 +14,7 @@
 # -- DATA -- #
 strChoice = '' # User input
 lstTbl = []  # list of lists to hold data
-dicRow = {}  # list of data row
+dicRow = {}  # dictionary of data row
 strFileName = 'CDInventory.txt'  # data storage file
 objFile = None  # file object
 
